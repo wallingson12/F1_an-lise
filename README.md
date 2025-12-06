@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Captura de tela de 2025-12-06 14-47-28.png" width="55%" alt="F1 Banner">
+  <img src="Captura de tela de 2025-12-06 14-47-28.png" width="55%" alt="F1 Banner">
 </p>
 
 # 🏎️📊 Análise Exploratória da Fórmula 1 (1950–2024)
@@ -39,5 +39,3 @@ A base contém:
 - Jupyter Notebook  
 
 ---
-
-## 📂 Estrutura do Projeto
